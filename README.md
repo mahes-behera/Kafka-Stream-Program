@@ -7,3 +7,4 @@ kafkastreamprocessor in its consumer stream it takes from "mytopic9" and process
 If you run console consumer with "mytopic9" then you can get the output which producer send
 We can bypass domain-service by domain-producer to kafkastreamprocessor . In this case domain-producer will send to the topic which kafkastreamprocessor will get it.
 
+https://www.youtube.com/watch?v=rqjdSbIOrJ4&t=602s
